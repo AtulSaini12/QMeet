@@ -4,8 +4,8 @@
     "liveServer.settings.CustomBrowser": "chrome",
     "liveServer.settings.https": {
       "enable": true,
-      "cert": "E:/github/webrtc-multi-conn-app/src/ssl-certificate/localhost.pem",
-      "key": "E:/github/webrtc-multi-conn-app/src/ssl-certificate/localhost.key",
+      "cert": "C:Users/ATUL SAINI/QMeet/src/ssl-certificate/localhost.pem",
+      "key": "C:Users/ATUL SAINI/QMeet/src/ssl-certificate/localhost.key",
       "passphrase": "12345"
     }
   }
